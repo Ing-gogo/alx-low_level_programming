@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * get_dnode_at_index - gets a specified node of a linked list
+ * get_dnodeint_at_index - gets a specified node of a linked list
  * @head: pointer to first node
  * @index: node to be retrieved
  * Return: pointer to retrieved node or NULL for failure
